@@ -11,3 +11,6 @@
 > "朦胧之月，停滞之声；时间之矢，熵溢之心."
 
 ![info](https://github-readme-stats.vercel.app/api?username=luxuncang&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luxuncang)](https://github.com/anuraghazra/github-readme-stats) -->
+
